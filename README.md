@@ -1,2 +1,2 @@
 # docker-action-pr-giphy
-test-PR workflow trigger
+PR workflow trigger for Docker custom action
